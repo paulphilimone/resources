@@ -1,0 +1,2 @@
+repository.tar.gz filter=lfs diff=lfs merge=lfs -text
+openhds-tablet-HTTPS_Support_on_Version_1.6.tar.gz filter=lfs diff=lfs merge=lfs -text
